@@ -13,5 +13,5 @@ Conceitos Explorados:
 - Criação de uma interface simples e interativa
   
 ## Preview
-<img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/7bc8e2ac-b0f2-4543-ac8e-02dbe3f6f531" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/185375ba-9347-4d94-8b50-7e7059e90ec5" />
+<img width="1914" height="949" alt="image" src="https://github.com/user-attachments/assets/45e5d55b-438a-4791-ae82-6a61f61b8b77" />
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/c45dee32-d294-45aa-8d3d-1feaaddf28c3" />
